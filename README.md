@@ -1,6 +1,9 @@
 # insta_cyber
 
-A new Flutter project.
+Imitation of Instagram app layout in Flutter.
+
+Contains only sing-up and sign-in pages.
+ 
 
 ## Getting Started
 
